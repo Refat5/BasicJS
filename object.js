@@ -15,6 +15,6 @@ const  man = {
 
 // document.getElementById('obj').innerHTML = man.age;
 // document.getElementById('obj').innerHTML = man["name"];
-document.getElementById('obj').innerHTML = man.start();
- console.log(man.start());
+// document.getElementById('obj').innerHTML = man.start();
+//  console.log(man.start());
 
