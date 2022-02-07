@@ -66,10 +66,10 @@ let Country = "Bangladesh, Pakistan, Austalia";
 // let text = "HELLO Refat";
 // let char = document.getElementById('strmethod').innerHTML = text[0];
 
-let text = "Hello Refat";
-const myArr = text.split("");
-console.log(myArr);
-document.getElementById('strmethod').innerHTML = myArr;
+// let text = "Hello Refat";
+// const myArr = text.split("");
+// console.log(myArr);
+// document.getElementById('strmethod').innerHTML = myArr;
 
 // text = "";
 // for (let i = 0; i < myArr.length; i++) {
