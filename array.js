@@ -9,7 +9,7 @@
 // document.getElementById('array').innerHTML = name[name.length-2];
 
 
-const name1 = ['refat','tanvir','durjoy','kahlid'];
+// const name1 = ['refat','tanvir','durjoy','kahlid'];
 
 // let fLen = name1.length;
 
@@ -54,6 +54,6 @@ const name1 = ['refat','tanvir','durjoy','kahlid'];
 // const pointsa = new Array(40, 100, 1, 5, 25, 10);
 // const points = [40, 100, 1, 5, 25, 10];
 
-const number = [3,32,34,443];
-const person = {name:'refat',age:32}
-document.getElementById('array').innerHTML =typeof number;    
+// const number = [3,32,34,443];
+// const person = {name:'refat',age:32}
+// document.getElementById('array').innerHTML =typeof number;    
